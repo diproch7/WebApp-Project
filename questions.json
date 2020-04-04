@@ -1,0 +1,7 @@
+var data=`[
+{"_id":{"$oid":"5e881773d659401ef009f29f"},"subject":"Data Structures","question":"Which of the following operations is not O(1) for an array of sorted data?","optionA":"Find the i-th largest element","optionB":"Delete an element","optionC":"Find the i-th smallest element","optionD":"All of the above","answer":"Delete an element","__v":0},
+{"_id":{"$oid":"5e881820d659401ef009f2a0"},"subject":"Data Structures","question":"Which of the following correctly declares an array?","optionA":"int a[20];","optionB":"int a;","optionC":"a{20};","optionD":"array a[20];","answer":"int a[20];","__v":0},
+{"_id":{"$oid":"5e88189dd659401ef009f2a1"},"subject":"Data Structures","question":"Which of the following is an application of Stack Data Structure?","optionA":"Managing function calls","optionB":"Stock Span problem","optionC":"Arithmetic expression evaluation","optionD":"All of the above","answer":"All of the above","__v":0},
+{"_id":{"$oid":"5e881910d659401ef009f2a2"},"subject":"Data Structures","question":"Which sorting algorithm can be used to sort a random linked list with minimum time complexity?","optionA":"Insertion Sort","optionB":"Quick Sort","optionC":"Heap Sort","optionD":"Merge Sort","answer":"Merge Sort","__v":0},
+{"_id":{"$oid":"5e881ca1d659401ef009f2a3"},"subject":"Data Structures","question":"How many stacks are needed to implement a queue?","optionA":"1","optionB":"2","optionC":"3","optionD":"4","answer":"2","__v":0}
+]`;
